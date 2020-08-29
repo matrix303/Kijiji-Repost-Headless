@@ -1,0 +1,63 @@
+postAdForm.attributeMap[numberbedrooms_s]: '3.5'
+postAdForm.attributeMap[numberbathrooms_s]: '25'
+postAdForm.attributeMap[numberparkingspots_s]: '2'
+postAdForm.addressProvince: Ontario
+postAdForm.attributeMap[dateavailable_tdt]: 15/10/2020
+postAdForm.attributeMap[areainfeet_i]: 1800
+postAdForm.title:  New single family Townhouse for Rent - Available from Oct. 15th
+postAdForm.addressStreetNumber: '31'
+postAdForm.addressStreetName: Aspen Hill
+postAdForm.addressCity: Mississauga
+postAdForm.addressPostalCode: L6Y6E4
+postAdForm.priceAmount: '2500'
+postAdForm.phoneNumber: '4167236537'
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forrentbyhousing_s]: ownr
+postAdForm.attributeMap[unittype_s]: townhouse
+postAdForm.attributeMap[petsallowed_s]: '0'
+postAdForm.attributeMap[agreementtype_s]: one-year
+postAdForm.attributeMap[furnished_s]: '0'
+postAdForm.attributeMap[airconditioning_s]: '1'
+postAdForm.attributeMap[smokingpermitted_s]: '0'
+postAdForm.priceType: FIXED
+postAdForm.city: Mississauga
+postAdForm.province: Ontario
+postAdForm.postalCode: L6Y6E4 
+postAdForm.geocodeLat: '39.82228775116847'
+postAdForm.geocodeLng: '-75.12984304175455'
+postAdForm.locationId: 1700276
+PostalLat: '39.82228775116847'
+PostalLng: '-75.12984304175455'
+locationLevel0: 1700272
+topAdDuration: '7'
+submitType: saveAndCheckout
+postAdForm.description: "Townhouse in Brampton. Great Location near Chinguacousy Rd\
+  \ and Steels Ave W.\\nOn the border of Mississauga/Bampton.\\n\tMinutes to Highway\
+  \ 401/410/407 & Sheridan College.\\n\tClose to grocery, Heartland center and community\
+  \ center.\\n\tSteps to Brampton Transit (Zum).\\n\t\\n\tKEY FEATURES: \\n3 Bedroom\
+  \ single family home with spacious great room and family room, 2 full and 2 half\
+  \ washrooms.\\n\tLaundry room on the main level.\\n\tDen at the main level.\\n\t\
+  Hardwood floors on the main and second level.\\n\t2 Parking (1 Garage and 1 Driveway)\
+  \ and visitor parking.\\nAppliances Included (Fridge, Stove w/Oven, Washer, Dryer,\
+  \ Dishwasher), Stainless steel appliances in kitchen.\\n Central Air conditioning.\\\
+  n\\nProperty Management Responsible for Cutting Grass and Snow Removal on roads.\\\
+  nTenant responsible for All Utilities, Tenant Insurance, snow removal and Lawn maintenance.\_\
+  \\n\\n\tNo Smoking\\n\\nRequirements:\_\\n\\n\tLease Term: 1 year Minimum\\n\tFirst\
+  \ and Last Month Rent Required\\n\tRent: $ 2,500 + Utility Extra\\n\tAvailable from\
+  \ Oct 15th, 2020\\n\\nEmployment Letter W/Most recent pay Stub\_and work reference.\L\
+  Credit Check W/Full Report.\LReference from last rental (if applicable)\_\L10 Posted-dated\
+  \ cheques\\n\\n\\nPlease contact via Email"
+categoryId: 37
+image_paths:
+- ad_images/1_Front.PNG
+- ad_images/2_Back.PNG
+- ad_images/3_Living room.PNG
+- ad_images/4_Living room_1.PNG
+- ad_images/5_Kitchen.PNG
+- ad_images/6_Dinning area.PNG
+- ad_images/7_Master bedroom.PNG
+- ad_images/8_Master bedroom washroom.PNG
+- ad_images/9_Bedroom 2 and 3.PNG
+- ad_images/10_Common washroom.PNG
+username: matrixspam303@gmail.com
+password: Spamp@ss30
